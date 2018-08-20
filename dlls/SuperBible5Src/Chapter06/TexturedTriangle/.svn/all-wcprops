@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/186/trunk/Src/Chapter06/TexturedTriangle
+END
+TexturedIdentity.vp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/132/trunk/Src/Chapter06/TexturedTriangle/TexturedIdentity.vp
+END
+TexturedIdentity.fp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/132/trunk/Src/Chapter06/TexturedTriangle/TexturedIdentity.fp
+END
+stone.tga
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/85/trunk/Src/Chapter06/TexturedTriangle/stone.tga
+END
+TexturedTriangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/186/trunk/Src/Chapter06/TexturedTriangle/TexturedTriangle.cpp
+END

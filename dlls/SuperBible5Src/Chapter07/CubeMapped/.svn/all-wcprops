@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/167/trunk/Src/Chapter07/CubeMapped
+END
+pos_x.tga
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/103/trunk/Src/Chapter07/CubeMapped/pos_x.tga
+END
+SkyBox.fp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/167/trunk/Src/Chapter07/CubeMapped/SkyBox.fp
+END
+SkyBox.vp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/167/trunk/Src/Chapter07/CubeMapped/SkyBox.vp
+END
+pos_y.tga
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/103/trunk/Src/Chapter07/CubeMapped/pos_y.tga
+END
+pos_z.tga
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/103/trunk/Src/Chapter07/CubeMapped/pos_z.tga
+END
+neg_x.tga
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/103/trunk/Src/Chapter07/CubeMapped/neg_x.tga
+END
+neg_y.tga
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/103/trunk/Src/Chapter07/CubeMapped/neg_y.tga
+END
+neg_z.tga
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/103/trunk/Src/Chapter07/CubeMapped/neg_z.tga
+END
+Cubemap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/138/trunk/Src/Chapter07/CubeMapped/Cubemap.cpp
+END
+Reflection.fp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/132/trunk/Src/Chapter07/CubeMapped/Reflection.fp
+END
+Reflection.vp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/132/trunk/Src/Chapter07/CubeMapped/Reflection.vp
+END

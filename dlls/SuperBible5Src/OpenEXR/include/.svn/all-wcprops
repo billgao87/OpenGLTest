@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include
+END
+ImfRgbaFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfRgbaFile.h
+END
+ImathPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathPlatform.h
+END
+ImfRgba.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfRgba.h
+END
+ImfTimeCodeAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfTimeCodeAttribute.h
+END
+ImfIntAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfIntAttribute.h
+END
+ImathFun.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathFun.h
+END
+ImfTestFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfTestFile.h
+END
+ImfConvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfConvert.h
+END
+IlmThreadSemaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/IlmThreadSemaphore.h
+END
+ImathFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathFrame.h
+END
+ImfHuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfHuf.h
+END
+ImfFrameBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfFrameBuffer.h
+END
+ImfCompressionAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfCompressionAttribute.h
+END
+ImfTileDescriptionAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfTileDescriptionAttribute.h
+END
+ImfMatrixAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfMatrixAttribute.h
+END
+ImathGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathGL.h
+END
+ImfTimeCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfTimeCode.h
+END
+ImfWav.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfWav.h
+END
+IexMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/IexMacros.h
+END
+ImfOutputFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfOutputFile.h
+END
+ImfTileDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfTileDescription.h
+END
+ImfCompression.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfCompression.h
+END
+IexMathExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/IexMathExc.h
+END
+ImfLut.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfLut.h
+END
+ImfKeyCodeAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfKeyCodeAttribute.h
+END
+ImfLineOrderAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfLineOrderAttribute.h
+END
+OpenEXRConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/OpenEXRConfig.h
+END
+ImfBoxAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfBoxAttribute.h
+END
+IlmThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/IlmThread.h
+END
+ImathLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathLine.h
+END
+ImfArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfArray.h
+END
+ImathGLU.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathGLU.h
+END
+half.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/half.h
+END
+ImfOpaqueAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfOpaqueAttribute.h
+END
+ImfName.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfName.h
+END
+ImathLineAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathLineAlgo.h
+END
+ImfStdIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfStdIO.h
+END
+ImathHalfLimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathHalfLimits.h
+END
+ImfEnvmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfEnvmap.h
+END
+ImathPlane.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathPlane.h
+END
+ImfChannelListAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfChannelListAttribute.h
+END
+ImfStringAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfStringAttribute.h
+END
+ImfChromaticitiesAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfChromaticitiesAttribute.h
+END
+ImfXdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfXdr.h
+END
+ImfTiledRgbaFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfTiledRgbaFile.h
+END
+ImathQuat.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathQuat.h
+END
+ImfVecAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfVecAttribute.h
+END
+ImathVec.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathVec.h
+END
+ImfThreading.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfThreading.h
+END
+ImathVecAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathVecAlgo.h
+END
+ImfRgbaYca.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfRgbaYca.h
+END
+ImfPreviewImageAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfPreviewImageAttribute.h
+END
+ImfEnvmapAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfEnvmapAttribute.h
+END
+ImfCRgbaFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfCRgbaFile.h
+END
+ImathBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathBox.h
+END
+ImathMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathMath.h
+END
+ImfTiledOutputFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfTiledOutputFile.h
+END
+ImathBoxAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathBoxAlgo.h
+END
+halfFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/halfFunction.h
+END
+ImfVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfVersion.h
+END
+ImfHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfHeader.h
+END
+ImathShear.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathShear.h
+END
+ImfFloatAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfFloatAttribute.h
+END
+Iex.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/Iex.h
+END
+ImathMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathMatrix.h
+END
+ImfDoubleAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfDoubleAttribute.h
+END
+ImathMatrixAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathMatrixAlgo.h
+END
+ImfChannelList.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfChannelList.h
+END
+ImfInt64.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfInt64.h
+END
+ImathExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathExc.h
+END
+ImathRandom.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathRandom.h
+END
+IlmThreadPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/IlmThreadPool.h
+END
+ImfStandardAttributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfStandardAttributes.h
+END
+ImathInterval.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathInterval.h
+END
+ImathSphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathSphere.h
+END
+ImfTiledInputFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfTiledInputFile.h
+END
+ImfPixelType.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfPixelType.h
+END
+ImfLineOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfLineOrder.h
+END
+ImfKeyCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfKeyCode.h
+END
+IexThrowErrnoExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/IexThrowErrnoExc.h
+END
+IexBaseExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/IexBaseExc.h
+END
+ImfPreviewImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfPreviewImage.h
+END
+ImathLimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathLimits.h
+END
+ImathFrustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathFrustum.h
+END
+ImathRoots.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathRoots.h
+END
+ImfInputFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfInputFile.h
+END
+IexErrnoExc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/IexErrnoExc.h
+END
+IlmThreadMutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/IlmThreadMutex.h
+END
+halfLimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/halfLimits.h
+END
+ImfAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfAttribute.h
+END
+ImathEuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathEuler.h
+END
+ImathColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathColor.h
+END
+ImfChromaticities.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfChromaticities.h
+END
+ImfIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImfIO.h
+END
+ImathColorAlgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/43/trunk/Src/OpenEXR/include/ImathColorAlgo.h
+END

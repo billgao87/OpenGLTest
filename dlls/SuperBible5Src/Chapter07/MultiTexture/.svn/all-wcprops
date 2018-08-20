@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/167/trunk/Src/Chapter07/MultiTexture
+END
+neg_x.tga
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/114/trunk/Src/Chapter07/MultiTexture/neg_x.tga
+END
+neg_y.tga
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/114/trunk/Src/Chapter07/MultiTexture/neg_y.tga
+END
+neg_z.tga
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/114/trunk/Src/Chapter07/MultiTexture/neg_z.tga
+END
+MultiTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/114/trunk/Src/Chapter07/MultiTexture/MultiTexture.cpp
+END
+Reflection.fp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/132/trunk/Src/Chapter07/MultiTexture/Reflection.fp
+END
+Reflection.vp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/132/trunk/Src/Chapter07/MultiTexture/Reflection.vp
+END
+pos_x.tga
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/114/trunk/Src/Chapter07/MultiTexture/pos_x.tga
+END
+tarnish.tga
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/114/trunk/Src/Chapter07/MultiTexture/tarnish.tga
+END
+SkyBox.fp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/167/trunk/Src/Chapter07/MultiTexture/SkyBox.fp
+END
+SkyBox.vp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/167/trunk/Src/Chapter07/MultiTexture/SkyBox.vp
+END
+pos_y.tga
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/114/trunk/Src/Chapter07/MultiTexture/pos_y.tga
+END
+pos_z.tga
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/114/trunk/Src/Chapter07/MultiTexture/pos_z.tga
+END

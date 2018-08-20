@@ -13,3 +13,9 @@
 
 
 // TODO:  在此处引用程序需要的其他头文件
+
+//glm
+
+#define GLM_FORCE_SWIZZLE	//glm will act as glsl vector.bgra
+#define GLM_FORCE_CXX11
+#include "glm/glm.hpp"

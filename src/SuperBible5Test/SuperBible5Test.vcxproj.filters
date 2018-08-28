@@ -14,10 +14,7 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="gltools">
-      <UniqueIdentifier>{29541218-7703-485e-87f7-e38c09e6846a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="tests">
-      <UniqueIdentifier>{a49c6267-4f67-42db-b092-0b146ab9e270}</UniqueIdentifier>
+      <UniqueIdentifier>{92b16300-c4a4-4ff6-a588-feed5fb5dfba}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -30,57 +27,24 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="PathUtil.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="vgl.h">
-      <Filter>头文件</Filter>
+      <Filter>gltools</Filter>
+    </ClInclude>
+    <ClInclude Include="GLBatchBase.h">
+      <Filter>gltools</Filter>
     </ClInclude>
     <ClInclude Include="GLBatch.h">
       <Filter>gltools</Filter>
     </ClInclude>
-    <ClInclude Include="GLTools.h">
-      <Filter>gltools</Filter>
-    </ClInclude>
-    <ClInclude Include="math3d.h">
-      <Filter>gltools</Filter>
-    </ClInclude>
-    <ClInclude Include="StopWatch.h">
-      <Filter>gltools</Filter>
-    </ClInclude>
-    <ClInclude Include="GLTriangleBatch.h">
-      <Filter>gltools</Filter>
-    </ClInclude>
-    <ClInclude Include="GLFrame.h">
-      <Filter>gltools</Filter>
-    </ClInclude>
-    <ClInclude Include="GLFrustum.h">
-      <Filter>gltools</Filter>
-    </ClInclude>
-    <ClInclude Include="GLGeometryTransform.h">
-      <Filter>gltools</Filter>
-    </ClInclude>
-    <ClInclude Include="GLMatrixStack.h">
-      <Filter>gltools</Filter>
-    </ClInclude>
-    <ClInclude Include="GLShaderManager.h">
-      <Filter>gltools</Filter>
-    </ClInclude>
-    <ClInclude Include="OpenGLTestBase.h">
+    <ClInclude Include="GLShaderBase.h">
       <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Block.h">
-      <Filter>tests</Filter>
-    </ClInclude>
-    <ClInclude Include="Triangle.h">
-      <Filter>tests</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="SuperBible5.cpp">
+    <ClCompile Include="SuperBible5Test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="..\..\include\glad\glad.c">
@@ -89,19 +53,7 @@
     <ClCompile Include="GLBatch.cpp">
       <Filter>gltools</Filter>
     </ClCompile>
-    <ClCompile Include="GLTools.cpp">
-      <Filter>gltools</Filter>
-    </ClCompile>
-    <ClCompile Include="math3d.cpp">
-      <Filter>gltools</Filter>
-    </ClCompile>
-    <ClCompile Include="GLTriangleBatch.cpp">
-      <Filter>gltools</Filter>
-    </ClCompile>
-    <ClCompile Include="GLShaderManager.cpp">
-      <Filter>gltools</Filter>
-    </ClCompile>
-    <ClCompile Include="OpenGLTestBase.cpp">
+    <ClCompile Include="GLShaderBase.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
